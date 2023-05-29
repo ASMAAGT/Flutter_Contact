@@ -1,0 +1,19 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASMAAGT/Flutter_ContactLiset.git"
+  },
+  "author": "Asma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASMAAGT/Flutter_ContactLiset/issues"
+  },
+  "homepage": "https://github.com/ASMAAGT/Flutter_ContactLiset#readme"
+}
